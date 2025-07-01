@@ -24,5 +24,4 @@
 ---
 
 📫 Let's Connect:  
-[LinkedIn](https://www.linkedin.com/in/chandana-vakkala)  
-✉️ Email: [chandanavakkala305@gmail.com](mailto:chandanavakkala305@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/chandana-vakkala)
