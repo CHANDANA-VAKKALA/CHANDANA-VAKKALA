@@ -8,7 +8,7 @@
 ---
 
 ### 💼 Technical Skills
-- **Programming:** Python, Java, C
+- **Programming:** C, Python, MySQL
 - **AI/ML Libraries:** Scikit-Learn, OpenCV, NLTK
 - **Web Technologies:** Flask, HTML, CSS
 - **Database:** SQL, Firebase
